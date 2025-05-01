@@ -184615,7 +184615,18 @@
       "tags": [
         "social-token"
       ]
-    }
+    },
+    {
+      "chainId": 101,
+      "address": "GRkfRBcVq4SSprKWDqJjijLVQeiu6Cj8cmVtdz2agUv8",
+      "symbol": "ZAPRE",
+      "name": "ZapRetardedment",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GRkfRBcVq4SSprKWDqJjijLVQeiu6Cj8cmVtdz2agUv8/ZapRetardedment.png",
+      "tags": [
+        "utility-token"
+      ]
+    }    
   ],
   "version": {
     "major": 0,
